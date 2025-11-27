@@ -1,9 +1,4 @@
-## Hi there 👋
-
-**DevRyan-ops/DevRyan-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hello I'm Charles Ryan a tech enthusist who seeks not only to develop but to greatly contribute to the ever evolving Tech World.
 - 🔭 I’m currently working on Full-Stack Software Development
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Blockchain
